@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/1abf2001ade0b25302c9727ded0117da/4efba96ddd512932-d0/s2048x3072/023393d16164e771ff11add2ae746daa82b74cfa.png" width="70%">
+  <img src="https://64.media.tumblr.com/1abf2001ade0b25302c9727ded0117da/4efba96ddd512932-d0/s2048x3072/023393d16164e771ff11add2ae746daa82b74cfa.png" width="80%">
 </p>
 
 
@@ -34,7 +34,7 @@ WHISPER TO ME !!!!</code>
 
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/1abf2001ade0b25302c9727ded0117da/4efba96ddd512932-d0/s2048x3072/023393d16164e771ff11add2ae746daa82b74cfa.png" width="70%">
+  <img src="https://64.media.tumblr.com/1abf2001ade0b25302c9727ded0117da/4efba96ddd512932-d0/s2048x3072/023393d16164e771ff11add2ae746daa82b74cfa.png" width="80%">
 </p>
 
 
